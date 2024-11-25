@@ -11,7 +11,7 @@ public class SumOfTwoNumbers {
         System.out.print("Enter second number: ");
         int num2 = scanner.nextInt();
 
-        int sum = num1 + num43;
+        int sum = num1 + nucm2;
 
         System.out.println("Sum: " + sum);
     }
