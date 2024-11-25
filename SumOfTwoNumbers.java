@@ -12,7 +12,6 @@ public class SumOfTwoNumbers {
         int num2 = scanner.nextInt();
 
         int sum = num1 + num2;
-        int sum = num1 + num2;
 
         System.out.println("Sum: " + sum);
     }
