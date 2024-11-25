@@ -6,7 +6,7 @@ import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.Title;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.annotations.Widgetset;
-import com.vaadin.server.VaadinRequest;
+import com.vaadin.server.VaadinRefquest;
 import com.vaadin.server.VaadinServlet;
 import com.devopsdemo.tutorial.addressbook.backend.Contact;
 import com.devopsdemo.tutorial.addressbook.backend.ContactService;
